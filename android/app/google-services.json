@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056024534765",
+    "project_id": "creme-bakery",
+    "storage_bucket": "creme-bakery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056024534765:android:1d83c3ab61901a4919b6e4",
+        "android_client_info": {
+          "package_name": "com.example.fgd_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-exDZw9ntZfrsMucTiMsckodbO66i-4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
